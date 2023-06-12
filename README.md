@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_UPXiSRuzOLd4_mym0S9KRFbZ0ctDiOo6tQ))](https://chaitanya-2604.io)
+![Machine-Learning-AI-Concept](https://github.com/Chaitanya-2604/Chaitanya-2604/assets/119853009/4b143ef8-a754-4b51-b9ec-e41103fef600)
+
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | SQL | Data visualization(Tableau)</h3>
-<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSzWqMN_zf90dMYEYet1afbu7cWEc-3sQieoaSq9nG7cL-YRl5-DXQp0wGXletD114Dyw](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlKj0a7TFRhYB9U7Rs0ihUUw1XZGfjCtKig)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya-2604&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya-2604" /> </p>
 
