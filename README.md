@@ -1,4 +1,3 @@
-![Machine-Learning-AI-Concept](https://github.com/Chaitanya-2604/Chaitanya-2604/assets/119853009/4b143ef8-a754-4b51-b9ec-e41103fef600)
 
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | SQL | Data visualization(Tableau)</h3>
